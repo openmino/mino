@@ -20,9 +20,9 @@ An AI Assistent that help developers directly into the terminal, with the power 
 ### Quick Install
 
 ```
-npm install -g openmino
+npm install -g @openmino/mino
 Or...
-bun add openmino
+bun add @openmino/mino
 ```
 
 After installation, the `mino` command is available globally:
