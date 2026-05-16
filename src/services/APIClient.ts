@@ -1,5 +1,5 @@
 import chalk from "chalk";
-import fs from "fs";
+import fs from "node:fs";
 
 export class APIClient {
   private apiKey: string;
