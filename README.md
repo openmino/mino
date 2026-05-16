@@ -66,4 +66,4 @@ mino update install # - Install a avaialable update
 ---
 
 <h3 align=center>Developed with ❤️ by OpenMino and Astro</h3>
-<p align=center><strong>Version 0.0.1 · 20+ Tests passing · 1 AI Model</strong></p>
+<p align=center><strong>Version 0.0.3 · 20+ Tests passing · 1 AI Model</strong></p>
