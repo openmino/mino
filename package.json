@@ -1,6 +1,26 @@
 {
+  "name": "@umastro12/mino",
+  "version": "0.0.4-fix",
+  "description": "An AI Assistant that help developers directly into the terminal",
+  "main": "dist/index.ts",
+  "keywords": [
+    "ai",
+    "cli",
+    "chatbot",
+    "qwen3",
+    "llm",
+    "ai-agents",
+    "assistant",
+    "mino"
+  ],
+  "author": "umastro12",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "dependencies": {
     "@types/node": "^25.8.0",
+    "boxen": "^8.0.1",
     "chalk": "^5.6.2",
     "commander": "^14.0.3",
     "groq-sdk": "^1.2.0",
